@@ -1,0 +1,36 @@
+{
+  "name": "Sahaja",
+  "identifier": "com.vivek.sahaja.source",
+  "subtitle": "Personal super-app for meditation and more",
+  "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
+  "website": "https://github.com/vivekpayasi/sahaja-releases",
+  "tintColor": "#4FE6D1",
+  "apps": [
+    {
+      "name": "Sahaja",
+      "bundleIdentifier": "com.vivek.sahaja",
+      "developerName": "Vivek",
+      "subtitle": "Meditation tracker with diamonds, streaks and widgets",
+      "localizedDescription": "Sahaja — effortless. Track your daily meditation vow: diamonds, coins, streaks, grace, and a daily darshan of the gurus. Includes home screen widgets.",
+      "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
+      "tintColor": "#4FE6D1",
+      "screenshots": [],
+      "version": "0.2.0",
+      "versionDate": "2026-09-02",
+      "versionDescription": "Grainy dark visual overhaul: daily darshan photo rotation, meditating-sage widget art, real diamond and coin icons, lotus app icon.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.2.0/Sahaja.ipa",
+      "size": 3302323,
+      "minOSVersion": "26.0",
+      "versions": [
+        {
+          "version": "0.2.0",
+          "date": "2026-09-02",
+          "localizedDescription": "Grainy dark visual overhaul: daily darshan photo rotation, meditating-sage widget art, real diamond and coin icons, lotus app icon.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.2.0/Sahaja.ipa",
+          "size": 3302323,
+          "minOSVersion": "26.0"
+        }
+      ]
+    }
+  ]
+}
