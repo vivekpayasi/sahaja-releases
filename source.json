@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.3.0",
-      "versionDate": "2026-09-02",
-      "versionDescription": "Morning and evening practice reminders: set times in the vow editor; a reminder stays silent once that session is logged.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.3.0/Sahaja.ipa",
-      "size": 3321253,
+      "version": "0.4.0",
+      "versionDate": "2026-09-08",
+      "versionDescription": "Settings menu (Vow, Reminders), day-grouped session history with an add button, and additive count chips in the log sheet.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.4.0/Sahaja.ipa",
+      "size": 3362970,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.4.0",
+          "date": "2026-09-08",
+          "localizedDescription": "Settings menu (Vow, Reminders), day-grouped session history with an add button, and additive count chips in the log sheet.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.4.0/Sahaja.ipa",
+          "size": 3362970,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.3.0",
           "date": "2026-09-02",
