@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.8.0",
+      "version": "0.8.1",
       "versionDate": "2026-09-16",
-      "versionDescription": "Win screen after logging a session: the diamonds you earned roll up with a sparkle burst, coins land beside them, then the day's verdict and streak, the kriya-years line, and lifetime diamonds. Intensity follows the tier. Shown for new sessions only; edits just save.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.8.0/Sahaja.ipa",
-      "size": 3301958,
+      "versionDescription": "Win screen polish: the diamond count rolls like an odometer (two digits, no clipping), nothing shifts as coins and lines appear, the sparkle burst fires once from the diamonds and a gold burst once from the coins, and the diamond is bigger.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.8.1/Sahaja.ipa",
+      "size": 3304413,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.8.1",
+          "date": "2026-09-16",
+          "localizedDescription": "Win screen polish: the diamond count rolls like an odometer (two digits, no clipping), nothing shifts as coins and lines appear, the sparkle burst fires once from the diamonds and a gold burst once from the coins, and the diamond is bigger.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.8.1/Sahaja.ipa",
+          "size": 3304413,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.8.0",
           "date": "2026-09-16",
