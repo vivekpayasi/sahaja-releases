@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.8.1",
+      "version": "0.8.2",
       "versionDate": "2026-09-16",
-      "versionDescription": "Win screen polish: the diamond count rolls like an odometer (two digits, no clipping), nothing shifts as coins and lines appear, the sparkle burst fires once from the diamonds and a gold burst once from the coins, and the diamond is bigger.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.8.1/Sahaja.ipa",
-      "size": 3304413,
+      "versionDescription": "Win screen: the diamond count now really rolls (1.4s odometer) and digit edges are no longer clipped.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.8.2/Sahaja.ipa",
+      "size": 3305709,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.8.2",
+          "date": "2026-09-16",
+          "localizedDescription": "Win screen: the diamond count now really rolls (1.4s odometer) and digit edges are no longer clipped.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.8.2/Sahaja.ipa",
+          "size": 3305709,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.8.1",
           "date": "2026-09-16",
