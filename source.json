@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.9.0",
-      "versionDate": "2026-09-16",
-      "versionDescription": "Light theme, with a System / Light / Dark setting (the widget follows it). Settings rebuilt in the Go Club row style. Footer tagline on the Today screen.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.9.0/Sahaja.ipa",
-      "size": 3360638,
+      "version": "0.9.1",
+      "versionDate": "2026-09-17",
+      "versionDescription": "Widget now follows the app's Theme setting in full. Session log sheet rebuilt on the same card rows as Settings. Vow editor's Save sits above the vow history.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.9.1/Sahaja.ipa",
+      "size": 3377550,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.9.1",
+          "date": "2026-09-17",
+          "localizedDescription": "Widget now follows the app's Theme setting in full. Session log sheet rebuilt on the same card rows as Settings. Vow editor's Save sits above the vow history.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.9.1/Sahaja.ipa",
+          "size": 3377550,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.9.0",
           "date": "2026-09-16",
