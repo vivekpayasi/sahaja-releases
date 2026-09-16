@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.6.0",
-      "versionDate": "2026-09-15",
-      "versionDescription": "Darshan photos: add your own guru portraits from Photos or Files (Settings → Darshan photos, or long-press the daily photo). Frame each one by dragging and pinching inside a live copy of the card. Hide any photo from the rotation, delete your own, reset framing. The altar composite is gone; the three built-in Yogananda portraits remain.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.6.0/Sahaja.ipa",
-      "size": 3240125,
+      "version": "0.6.1",
+      "versionDate": "2026-09-16",
+      "versionDescription": "Fix: tapping a darshan photo opened the editor and then immediately pushed the photo list again on top of it. Back now works as expected.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.6.1/Sahaja.ipa",
+      "size": 3236122,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.6.1",
+          "date": "2026-09-16",
+          "localizedDescription": "Fix: tapping a darshan photo opened the editor and then immediately pushed the photo list again on top of it. Back now works as expected.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.6.1/Sahaja.ipa",
+          "size": 3236122,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.6.0",
           "date": "2026-09-15",
