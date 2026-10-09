@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.9.1",
-      "versionDate": "2026-09-17",
-      "versionDescription": "Widget now follows the app's Theme setting in full. Session log sheet rebuilt on the same card rows as Settings. Vow editor's Save sits above the vow history.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.9.1/Sahaja.ipa",
-      "size": 3377550,
+      "version": "0.9.2",
+      "versionDate": "2026-10-09",
+      "versionDescription": "A past day where you sat but fell short now keeps a half circle in the week row, the widget and History, instead of turning into a grey dot. Left half: morning only. Right half: evening only. Bottom half: both logged but below the floor.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.9.2/Sahaja.ipa",
+      "size": 3383922,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.9.2",
+          "date": "2026-10-09",
+          "localizedDescription": "A past day where you sat but fell short now keeps a half circle in the week row, the widget and History, instead of turning into a grey dot. Left half: morning only. Right half: evening only. Bottom half: both logged but below the floor.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.9.2/Sahaja.ipa",
+          "size": 3383922,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.9.1",
           "date": "2026-09-17",
