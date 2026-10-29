@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.10.0",
-      "versionDate": "2026-10-28",
-      "versionDescription": "New Workout tab for Calimove's Body Transformation Basics prep phase, in place of Water: sessions in order on the days that suit you, with rest-day and block rules and the next session's earliest date; test-week variations carried into every workout; a box per set, and logging a set starts the rest that follows it; a rest timer that alerts with the screen locked; course, warm-up and exercise video links; and Workout's own settings. Water Intake and its widget are removed, so take the Water widget off your Home Screen. The first session asks for notification permission for the rest alert. This update migrates the data store; don't reinstall 0.9.x afterwards.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.10.0/Sahaja.ipa",
-      "size": 3510137,
+      "version": "0.11.0",
+      "versionDate": "2026-10-29",
+      "versionDescription": "Workout gets a calendar and plans around your week: rest days straight from Calimove's chart, sessions planned on your gym days (Mon–Fri by default) with missed days moving the plan to the next gym day, and a month and week calendar with a day sheet to start, preview or move a session. Back after three weeks or more, choose to jump back in, ease back in with the test week, or start over. Exercise GIFs from the course on each card: import calimove-gifs.json once in Workout settings › Exercise GIFs. Each exercise shows last time's sets, lets you change the variation, and nudges toward a harder or easier one.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.11.0/Sahaja.ipa",
+      "size": 3695863,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.11.0",
+          "date": "2026-10-29",
+          "localizedDescription": "Workout gets a calendar and plans around your week: rest days straight from Calimove's chart, sessions planned on your gym days (Mon–Fri by default) with missed days moving the plan to the next gym day, and a month and week calendar with a day sheet to start, preview or move a session. Back after three weeks or more, choose to jump back in, ease back in with the test week, or start over. Exercise GIFs from the course on each card: import calimove-gifs.json once in Workout settings › Exercise GIFs. Each exercise shows last time's sets, lets you change the variation, and nudges toward a harder or easier one.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.11.0/Sahaja.ipa",
+          "size": 3695863,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.10.0",
           "date": "2026-10-28",
