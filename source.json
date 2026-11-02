@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.12.0",
+      "version": "0.13.0",
       "versionDate": "2026-11-02",
-      "versionDescription": "Workout becomes a follow-along in a new black-and-volt look. Start workout shows the session; Let's go! asks which warm-up and walks you through one exercise at a time with the set or lap you're on, your variation and the course GIF. Done starts the rest full screen and asks reps and effort (1–10), starting at the target so one tap saves a set that went to plan. Holds record how long you held; test days ask for the variation's name, a description and your max reps. Swipe up for the whole session, close anytime and Resume, and Finish shows the total time. Import your own warm-up GIFs in Workout settings › Warm-up GIFs.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.12.0/Sahaja.ipa",
-      "size": 3914922,
+      "versionDescription": "Workout opens on a 4-week challenge: keep every planned session each week, four weeks straight, and earn the prize you name (it starts with your next session; a missed week starts it again at week 1). Tap the challenge for the journey, a stone path under a dusk sky with a gem for each week and your prize in a chest at the top. Below it: Today, This week (log a walk, run or game with +), Progress and your last session. Earn a certificate for each challenge and for finishing Prep, and save it to Photos or share it. The calendar shows each session's shape, your other activities and the weeks you kept. During a workout, a Live Activity on the Lock Screen and in the Dynamic Island shows the rest time left and what's next, or the exercise and set you're on. Exercise GIFs now fill the width of the screen.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.0/Sahaja.ipa",
+      "size": 4332680,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.13.0",
+          "date": "2026-11-02",
+          "localizedDescription": "Workout opens on a 4-week challenge: keep every planned session each week, four weeks straight, and earn the prize you name (it starts with your next session; a missed week starts it again at week 1). Tap the challenge for the journey, a stone path under a dusk sky with a gem for each week and your prize in a chest at the top. Below it: Today, This week (log a walk, run or game with +), Progress and your last session. Earn a certificate for each challenge and for finishing Prep, and save it to Photos or share it. The calendar shows each session's shape, your other activities and the weeks you kept. During a workout, a Live Activity on the Lock Screen and in the Dynamic Island shows the rest time left and what's next, or the exercise and set you're on. Exercise GIFs now fill the width of the screen.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.0/Sahaja.ipa",
+          "size": 4332680,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.12.0",
           "date": "2026-11-02",
