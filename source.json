@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.13.3",
+      "version": "0.13.4",
       "versionDate": "2026-11-03",
-      "versionDescription": "The calendar's fold now starts moving with your finger from the first moment you drag the handle, without the small jump it made as the drag began.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.3/Sahaja.ipa",
-      "size": 4340176,
+      "versionDescription": "The calendar's fold now follows your finger's position directly and takes the drag ahead of the handle's tap, so the drag can't jolt part-way through the motion.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.4/Sahaja.ipa",
+      "size": 4340567,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.13.4",
+          "date": "2026-11-03",
+          "localizedDescription": "The calendar's fold now follows your finger's position directly and takes the drag ahead of the handle's tap, so the drag can't jolt part-way through the motion.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.4/Sahaja.ipa",
+          "size": 4340567,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.13.3",
           "date": "2026-11-03",
