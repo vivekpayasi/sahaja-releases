@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.13.1",
+      "version": "0.13.2",
       "versionDate": "2026-11-03",
-      "versionDescription": "Polish: the journey's chest now glows against the light rising behind it; the calendar folds smoothly from month to week as you pull the handle, the rows sliding up into the selected week; and the challenge path on the Workout tab runs the full width of the screen.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.1/Sahaja.ipa",
-      "size": 4339182,
+      "versionDescription": "The calendar's month-to-week fold now follows your finger smoothly, with no shake when you start dragging the handle.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.2/Sahaja.ipa",
+      "size": 4339343,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.13.2",
+          "date": "2026-11-03",
+          "localizedDescription": "The calendar's month-to-week fold now follows your finger smoothly, with no shake when you start dragging the handle.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.2/Sahaja.ipa",
+          "size": 4339343,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.13.1",
           "date": "2026-11-03",
