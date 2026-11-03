@@ -15,13 +15,21 @@
       "iconURL": "https://raw.githubusercontent.com/vivekpayasi/sahaja-releases/main/icon.png",
       "tintColor": "#4FE6D1",
       "screenshots": [],
-      "version": "0.13.0",
-      "versionDate": "2026-11-02",
-      "versionDescription": "Workout opens on a 4-week challenge: keep every planned session each week, four weeks straight, and earn the prize you name (it starts with your next session; a missed week starts it again at week 1). Tap the challenge for the journey, a stone path under a dusk sky with a gem for each week and your prize in a chest at the top. Below it: Today, This week (log a walk, run or game with +), Progress and your last session. Earn a certificate for each challenge and for finishing Prep, and save it to Photos or share it. The calendar shows each session's shape, your other activities and the weeks you kept. During a workout, a Live Activity on the Lock Screen and in the Dynamic Island shows the rest time left and what's next, or the exercise and set you're on. Exercise GIFs now fill the width of the screen.",
-      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.0/Sahaja.ipa",
-      "size": 4332680,
+      "version": "0.13.1",
+      "versionDate": "2026-11-03",
+      "versionDescription": "Polish: the journey's chest now glows against the light rising behind it; the calendar folds smoothly from month to week as you pull the handle, the rows sliding up into the selected week; and the challenge path on the Workout tab runs the full width of the screen.",
+      "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.1/Sahaja.ipa",
+      "size": 4339182,
       "minOSVersion": "26.0",
       "versions": [
+        {
+          "version": "0.13.1",
+          "date": "2026-11-03",
+          "localizedDescription": "Polish: the journey's chest now glows against the light rising behind it; the calendar folds smoothly from month to week as you pull the handle, the rows sliding up into the selected week; and the challenge path on the Workout tab runs the full width of the screen.",
+          "downloadURL": "https://github.com/vivekpayasi/sahaja-releases/releases/download/v0.13.1/Sahaja.ipa",
+          "size": 4339182,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "0.13.0",
           "date": "2026-11-02",
